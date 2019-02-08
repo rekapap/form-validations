@@ -1,6 +1,6 @@
 # Form Validation
 
-Playing around with Form Validations using MDN resouces
+Playing around with Form Validations using MDN resources
 
 ## How to use it
 
